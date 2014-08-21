@@ -6,7 +6,7 @@
 - Everyone else does it: Github
 - Competition: Mercurial, SVN, Bazaar
 
-# Intalling Git
+# Installing Git
 ## OSX
 - Use homebrew `brew install git`
 - Make sure that /usr/local/bin is before /usr/bin
